@@ -1,0 +1,36 @@
+User guide for Linux
+=====================
+
+Installation
+-------------
+
+1) First download python3.8.10 from below link:
+https://www.python.org/ftp/python/3.8.10/Python-3.8.10.tgz
+
+2) Extract the downloaded file.
+
+3) Go into the extracted folder and run the following commands:
+   a) ./configure
+   b) make
+   c) make test
+   d) sudo make install 
+
+This will install python3.8 on your machine.
+
+How to run Test case
+----------------------
+1) Extract the given Foo_bar file.
+2) Go into the extracted folder and run the following commands:
+
+    a) python3.8 test.py
+
+
+
+How to run till 100:
+---------------------
+1) Extract the given Foo_bar file if not already.
+2) Go into the extracted folder and run the following command:
+
+    a) python3.8 Foo_bar_challenge_till_100.py
+
+
